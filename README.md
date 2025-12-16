@@ -28,10 +28,10 @@ Since this library relies on modern C++ features (C++11/17), you must explicitly
     ```
     *(Note: `-O3` ensures maximum performance optimization.)*
 
-## 🤝 Contribution
+## Contribution
 
 Contributions are welcome! Please feel free to open issues or submit pull requests for bug fixes, performance improvements, or new primitives aligned with embedded system needs.
 
-## 📄 License
+## License
 
 [Specify your chosen license here, e.g., MIT, Apache 2.0]
